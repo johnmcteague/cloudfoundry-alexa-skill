@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "StartAppIntent"
+    },
+    {
+      "intent": "StopAppIntent"
+    },
+    {
+      "intent": "ListAppsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

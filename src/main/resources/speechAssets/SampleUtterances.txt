@@ -1,0 +1,3 @@
+StartAppIntent start app
+StopAppIntent stop app
+ListAppsIntent list apps
